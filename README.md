@@ -23,7 +23,7 @@ Supports Types
 -	Array,
 -	ArrayPTR,
 -	Deque,
--	Forward_List,
+-	Forward List,
 -	List,
 -	Set,
 -	Stack,
